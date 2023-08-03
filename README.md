@@ -1,6 +1,11 @@
 # Blog-Website
 Blog Website using EJS with Express
 
+1) Clone Project to Code Editor
+2) Run -npm install- in terminal
+3) Run -nodemon app.js - in terminal
+4) Run http://localhost:3000/ - on web browser to have website running.
+
 This is a Blog Website Challenge Presented by Angela Yu's Udemy Online Web-Development Course. The purpose of this project is to display the use of Embedded JavaScript templating with Express and to demonstrate the power of creating multiple pages with a single EJS Template.
 Once you have cloned this project into your preferred Code Editor, you must run npm install in order to install the project dependencies. Once you have installed the packages, you can then run nodemon app.js to have the project up and running on your localhost ie - http://localhost:3000/.
 The project consists of 5 pages. The first page is the home page, the second page is the about page, and the third page is the contact us page. If you go the compose page by entering in the following http://localhost:3000/compose, you will be directed to the Compose Page. This is the fourth page.
