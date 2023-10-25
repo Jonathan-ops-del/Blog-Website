@@ -1,6 +1,8 @@
 # Blog-Website
 Blog Website using EJS with Express
 
+Run this project using npm.
+
 1) Clone Project to Code Editor
 2) Run -npm install- in terminal
 3) Run -nodemon app.js - in terminal
