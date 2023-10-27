@@ -13,4 +13,4 @@ Run this project using npm.
 6) This :postTitle in the link is related to the very Title you created on your compose page and displayed on the Home Page. As you will see you can make multiple Post Requests on the compose page. These Blogs will all be displayed on the Home Page and by clicking on these individual Blog Contents - Read Me Link -  on the Home Page, it will direct you to their individual blog pages.
 7) The individual blog pages are completed through the use of EJS templating, without having to create multiple EJS pages, we are able to use a single Template for the individual blog pages.
 
-NOTE*This project has also been uploaded to Heroku, and you can simply use the link - https://my-blogsite-app-6a593a0c68c1.herokuapp.com/ - to view the application on your Web Browser.
+NOTE*This project has also been uploaded to Heroku, and you can simply use the link - https://my-blogsite-app-6a593a0c68c1.herokuapp.com/ - to view the application on your Web Browser. To post a blog you must visit - https://my-blogsite-app-6a593a0c68c1.herokuapp.com/compose
