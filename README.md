@@ -6,7 +6,7 @@ This is a Blog Website Challenge Presented by Angela Yu's Udemy Online Web-Devel
 Run this project using npm.
 
 1) Once you have cloned this project into your preferred Code Editor, you must run "npm install" in order to install the project dependencies. 
-2) Once you have installed the packages, you can then run "nodemon app.js" to have the project up and running on your localhost ie - http://    localhost:3000/.
+2) Once you have installed the packages, you can then run "nodemon app.js" to have the project up and running on your localhost ie - http://localhost:3000/.
 3) The project consists of 5 pages. The first page is the home page, the second page is the about page, and the third page is the contact us page. If you go the compose page by entering in the following http://localhost:3000/compose, you will be directed to the Compose Page. This is the fourth page.
 4) At the compose page, you will be able to create your preferred Blog Post with an unique Title & Content. Once you have clicked publish , you will be redirected to the home page. You will see that the home page now has your Blog with the Title & Content.  You will notice on the Home Page where your blog post has been posted, there is a Read Me link beside it.
 5) This Read Me link when clicked on will take you to its individual Blog Page - where you can see the full content. At the Home Page the Blog Content is limited to 100 Characters. The individual Blog Page will have the following link -http://localhost:3000/posts/:postTitle. This is the fifth page. The :postTitle is used as an example here it will be any title you created from your Blog Post.
